@@ -1,16 +1,5 @@
 <?php
 
-/*
- * kafijas aparāts
- * Maks, kurā atrodas monētas
- *
- * iemetam monētas
- * iemest - 10, 3 - neeksistē, 2 - - 0.12$
- * izvēlēties dzērienu
- *
- * Atlikums ir jāizdod monētās, sākot ar lielāko
- */
-
 $wallet = [
     1 => 5,
     2 => 5,
